@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C++,Python,Django,SQL,MongoDB, JavaScript**
-- Libraries,Frameworks **Django,Selenium,Request,Tkinter,Turtle,Flask,smtplib,twillio,Csv,Pandas,Numpy,API**
+- 🌱 I’m currently learning **C++,Java, Python,Django,SQL**
+- Libraries,Frameworks **Django,Selenium,java.nio,Request,Tkinter,Csv,Pandas,Numpy,API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darimachine](https://github.com/darimachine)
 
@@ -34,10 +34,6 @@
 <p><a href="https://ko-fi.com/uchihadari"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/uchihadari" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darimachine&show_icons=true&locale=en" alt="darimachine" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darimachine&" alt="darimachine" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darimachine" alt="darimachine" /></a> </p>
 
 <!--
 **darimachine/darimachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
