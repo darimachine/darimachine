@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/darimachine](https://github.com/darimachine)
 
-- 💬 Ask me about **Python, C#, Html, CSS**
-
 - 📫 How to reach me **serhi1827@gmail.com**
 - Check my Youtube Channel - https://www.youtube.com/@uchihadari7680/videos
 
