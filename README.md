@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C++,Java, Python,Django,SQL**
-- Libraries,Frameworks **Django,Selenium,java.nio,Request,Tkinter,Csv,Pandas,Numpy,API**
+- 🌱 I’m currently learning **C++,Java,React,Typescript, Python,Django,SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darimachine](https://github.com/darimachine)
 
